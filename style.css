@@ -19,7 +19,8 @@ button {
 }
 .form-control:focus {
   background: rgba(255, 255, 255, 0.1); 
-  border-color: #0d6efd; 
+  border-color: hotpink; 
   box-shadow: none;
   color:whitesmoke;
+
 }
